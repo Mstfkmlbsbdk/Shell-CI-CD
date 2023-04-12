@@ -11,7 +11,7 @@ Using Azure Pipeline and Github Actions for automating test, build and deploy we
 
 ## Project Plan
 
-* The [Trello board](https://trello.com/invite/b/8jRUbXou/ATTI869e44588d0c6b5edf3d4d3f12924b4831F5885D/devops-ci-cd-project) is used for task planning and tracking as Project Management Tool.
+* The [Trello board](https://trello.com/b/8jRUbXou/devops-ci-cd-project) is used for task planning and tracking as Project Management Tool.
 * The [quarterly project plan](plan/project-management-plan.xlsx) the steps for building CI-CD pipeline in excel.
 
 
